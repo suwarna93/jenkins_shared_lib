@@ -1,3 +1,3 @@
 def call(){
-    sh 'python jfrog.py'
+    sh 'python3 jfrog.py'
 }
